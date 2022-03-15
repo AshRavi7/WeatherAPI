@@ -1,4 +1,5 @@
-import time
+import time 
+import pandas as pd # example to show merge conflict 
 ''' This is the view part of the Model controller view architecture'''
 
 
