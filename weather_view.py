@@ -1,5 +1,5 @@
 import time
-''' This is the view part of the MVC architecture'''
+''' This is the view part of the Model controller view architecture'''
 
 
 def StartView(): 
