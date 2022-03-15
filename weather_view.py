@@ -1,4 +1,6 @@
 import time
+''' This is the view part of the MVC architecture'''
+
 
 def StartView(): 
 	print("\n\n---Welcome to Weather Forecast Engine---")
